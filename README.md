@@ -7,14 +7,6 @@ Este é um projeto de clone do website do Spotify, onde foi recriada a página i
 - HTML
 - CSS
 
-## Estrutura de Arquivos
-
-O projeto é composto pelos seguintes arquivos:
-
-- `index.html`: O arquivo HTML principal que contém a estrutura do site.
-- `style.css`: O arquivo CSS que estiliza o site.
-- `img/`: Pasta contendo as imagens utilizadas no site.
-
 ## Funcionalidades
 
 - Navbar com links para diferentes seções do site, incluindo links externos.
